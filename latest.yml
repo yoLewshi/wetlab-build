@@ -1,8 +1,8 @@
-version: 0.1.0
+version: 0.1.2
 files:
-  - url: wetlab-0.1.0.exe
-    sha512: f7DfKXjrOYYd0P+Hk93/ukx4f64gSNNMOdvzUXlvZNCeWOz36K7Ae/FYz2/O9ievV27eHfij1/etExyX+BFH6A==
-    size: 90717443
-path: wetlab-0.1.0.exe
-sha512: f7DfKXjrOYYd0P+Hk93/ukx4f64gSNNMOdvzUXlvZNCeWOz36K7Ae/FYz2/O9ievV27eHfij1/etExyX+BFH6A==
-releaseDate: '2024-06-06T03:28:19.329Z'
+  - url: wetlab-0.1.2.exe
+    sha512: q8rnmA8a/AsYZcVu1eJDJMhU5Da+GTTXYFGHrJiZzzILHniJhScv6vWIOfm3ilKMEawOq8luZRZr7XXpva+8fQ==
+    size: 87838348
+path: wetlab-0.1.2.exe
+sha512: q8rnmA8a/AsYZcVu1eJDJMhU5Da+GTTXYFGHrJiZzzILHniJhScv6vWIOfm3ilKMEawOq8luZRZr7XXpva+8fQ==
+releaseDate: '2024-07-09T04:23:15.513Z'
